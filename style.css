@@ -1,0 +1,121 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo-one img{
+    height: 50px ;
+    width: 50px;
+    margin-left: 40px ;
+    margin-top: 20px ;
+}
+.menu{
+    margin-left:250px  ;
+    margin-top: -40px ;
+}
+#main-image img {
+    height: 735px ;
+    width: 470px;
+    float:right;
+    margin-top: -400px;
+    margin-right: 0px ;
+}
+.header-title{
+    margin-left: 50px ;
+    margin-top: 80px ;
+}
+.sub-button{
+    margin-left: 40px;
+}
+
+.row, .row-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: white;
+    flex-wrap: wrap;
+    height: 95px;
+    padding:0px 10px 20px 10px
+  }
+  
+  .location-block, .info-block {
+    text-align: center;
+    flex: 1;
+    padding: 5px;
+  }
+  
+  .swap-icon {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 10px;
+  }
+  
+  .info-title {
+    font-size: 14px;
+    color: gray;
+  }
+  
+  .info-value {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 5px 0;
+  }
+  
+  .badge {
+    background-color: #ffe0b2;
+    padding: 4px 10px;
+    border-radius: 10px;
+  }
+
+.search-button{
+    margin-left: 40px;  
+}
+.search-button button{
+    width: 300px ;
+    height: 40px ;
+    padding:20px;
+    font-weight: bold;
+    background-color: #01BB0A;
+    border : 20px 40px;
+    border-radius: 5px;
+    color: white ;
+    border: none;   
+    display: flex;
+  justify-content: center; /* centers text horizontally */
+  align-items: center;     /* centers text vertically */
+  text-transform: uppercase;}
+#login-button{
+    color: white;
+    background-color: #FB792B;
+}
+.menu-button button{
+    background-color: white ;
+    border:0.5px solid  ;
+}
+.menu-anchor a{
+    text-decoration: none;
+    word-spacing: ;
+    color: black ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-size-adjust: 1px ;
+}
+.header-title {
+    margin:40px 0px 10px 30px ;
+    word-spacing: 1cap;
+}
+.sub-button{
+    padding:20px   
+}
+.sub-button button{
+    background-color: white;
+    border:0.5px solid;
+    width: 100px;
+    height: 25px;
+    
+}
+
+
+ 
